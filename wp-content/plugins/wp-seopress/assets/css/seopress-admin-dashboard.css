@@ -229,7 +229,7 @@
 
 /* Default styles */
 .seopress-dashboard .seopress-option {
-    background: url(/wp-content/plugins/wp-seopress/assets/img/bg-dashboard.svg) no-repeat 100% 0%;
+    background: url(https://eur2.github.io/banquet/wp-content/plugins/wp-seopress/assets/img/bg-dashboard.svg) no-repeat 100% 0%;
     padding-top: 65px;
 }
 
@@ -324,7 +324,7 @@
 
 .seopress-get-started .seopress-block-wizard::after {
     content: '';
-    background: url(/wp-content/plugins/wp-seopress/assets/img/bg-dashboard-wizard.svg) 100% 100% no-repeat;
+    background: url(https://eur2.github.io/banquet/wp-content/plugins/wp-seopress/assets/img/bg-dashboard-wizard.svg) 100% 100% no-repeat;
     opacity: 0.1;
     position: absolute;
     right: 0;
@@ -541,15 +541,15 @@
 
 /* Upsell / Crossell */
 .seopress-crossell {
-    background: #fff url(/wp-content/plugins/wp-seopress/assets/img/bg-seo-audit.svg) 100% 100% no-repeat;
+    background: #fff url(https://eur2.github.io/banquet/wp-content/plugins/wp-seopress/assets/img/bg-seo-audit.svg) 100% 100% no-repeat;
 }
 
 .seopress-upsell.seopress-upsell-pro {
-    background: #fff url(/wp-content/plugins/wp-seopress/assets/img/bg-seopress-pro.svg) 100% 100% no-repeat;
+    background: #fff url(https://eur2.github.io/banquet/wp-content/plugins/wp-seopress/assets/img/bg-seopress-pro.svg) 100% 100% no-repeat;
 }
 
 .seopress-upsell.seopress-upsell-insights {
-    background: #fff url(/wp-content/plugins/wp-seopress/assets/img/bg-seopress-insights.svg) 100% 100% no-repeat;
+    background: #fff url(https://eur2.github.io/banquet/wp-content/plugins/wp-seopress/assets/img/bg-seopress-insights.svg) 100% 100% no-repeat;
 }
 
 .seopress-upsell .seopress-card-title,

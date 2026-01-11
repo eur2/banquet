@@ -770,7 +770,7 @@ html[dir=rtl] .acf-block-component .acf-block-fields {
   top: 0;
   left: 0;
   font-size: 20px;
-  background-image: url(/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-info-red.svg);
+  background-image: url(https://eur2.github.io/banquet/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-info-red.svg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: 69%;
@@ -794,7 +794,7 @@ html[dir=rtl] .acf-block-component .acf-block-fields {
   left: -32px;
   font-size: 20px;
   background-color: #d94f4f;
-  background-image: url(/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-info-white.svg);
+  background-image: url(https://eur2.github.io/banquet/wp-content/plugins/advanced-custom-fields-pro/assets/images/icons/icon-info-white.svg);
   background-repeat: no-repeat;
   background-position-x: center;
   background-position-y: 52%;
